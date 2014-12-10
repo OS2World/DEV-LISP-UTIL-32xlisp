@@ -1,0 +1,7 @@
+xlisp xlbfun xlcont xldbug xldmem xleval xlfio +
+xlftab xlglob xlimage xlinit xlio xljump xllist	+
+xlmath xlobj xlpp xlprin xlread xlstr xlstruct +
+xlsubr xlsym xlsys msstuff
+xlisp
+xlisp
+libc os2386;
